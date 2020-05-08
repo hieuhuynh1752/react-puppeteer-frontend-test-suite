@@ -1,4 +1,4 @@
-**This project provide basic front-end ReactJS test suite with Jest and Puppeteer **
+## This project provide basic front-end ReactJS test suite with Jest and Puppeteer 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Material-UI.
 
